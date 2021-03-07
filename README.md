@@ -1,10 +1,12 @@
 # Stock-analysis
 ---
-## Overview of Project: The client, Steve requested assistance in an analysis of a green stock he was researching for his parents to possibly invest in. He was pleased with the original analysis provided in Excel. Now, the goal is to use VBA in Excel to further analyze an expanded dataset of stocks to include the entire stock market from the past few years for Steve and his parents to compare. 
+## Overview of Project
+The client, Steve requested assistance in an analysis of a green stock he was researching for his parents to possibly invest in. He was pleased with the original analysis provided in Excel. Now, the goal is to use VBA in Excel to further analyze an expanded dataset of stocks to include the entire stock market from the past few years for Steve and his parents to compare. 
 --- 
-## Purpose: The purpose of this project was to provide Steve with an in-depth analysis of stocks and enable him to quickly and easily access the data and results of the analysis. The code from in the original dataset and analysis needed to be refactored in order to achieve this.
+## Purpose
+The purpose of this project was to provide Steve with an in-depth analysis of stocks and enable him to quickly and easily access the data and results of the analysis. The code from in the original dataset and analysis needed to be refactored in order to achieve this.
 ---
-### Results:
+### Results
 The code was refactored in order to be able to loop through the data just once to collect all the information without the runtime being too long.
 
 **Runtimes with original code for reference:**
@@ -26,3 +28,10 @@ The code was refactored in order to be able to loop through the data just once t
 
 
 <img width="587" alt="AllStocksAnalysis Refactored" src="https://user-images.githubusercontent.com/78699465/110253004-0dc71d00-7f56-11eb-8b10-c2550883ba8f.png">
+
+# Summary:
+**Avantages and Disadvantages to refactoring code**
+
+There are both advantages and disadvantages to refactoring code.
+The advantages in this case were, slightly reducing the run-times of the script outputs. Also, the refactored code appears cleaner and easier to follow.
+The disadvantage to consider is, the process of refactoring may not be worth the time and effort spent considering the run-times were only slightly reduced. A firm understanding of syntax is required for optimal results.
