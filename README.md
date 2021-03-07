@@ -14,7 +14,7 @@ The code was refactored in order to be able to loop through the data just once t
 **Runtimes with original code for reference:**
 
 <img width="604" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/78699465/110252343-eae73980-7f52-11eb-8af2-7f40a99e1923.png">
-
+<img width="620" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/78699465/110252417-4c0f0d00-7f53-11eb-91ff-8020027f6c93.png">
 
 **Refactored Code:**
 **Runtimes with refactored code:**
