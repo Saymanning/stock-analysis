@@ -13,6 +13,7 @@ The code was refactored in order to be able to loop through the data just once t
 
 **Runtimes with original code for reference:**
 
+
 **Refactored Code:**
 **Runtimes with refactored code:**
 <img width="658" alt="VBA_Challenge_2017 Refactored" src="https://user-images.githubusercontent.com/78699465/110251123-07807300-7f4d-11eb-8189-597f86e9e11b.png">
