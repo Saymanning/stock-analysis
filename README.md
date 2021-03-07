@@ -30,7 +30,7 @@ The code was refactored in order to be able to loop through the data just once t
 <img width="587" alt="AllStocksAnalysis Refactored" src="https://user-images.githubusercontent.com/78699465/110253004-0dc71d00-7f56-11eb-8b10-c2550883ba8f.png">
 
 # Summary:
-**Avantages and Disadvantages to refactoring code**
+**Advantages and Disadvantages to refactoring code**
 
 There are both advantages and disadvantages to refactoring code.
 The advantages in this case were, slightly reducing the run-times of the script outputs. Also, the refactored code appears cleaner and easier to follow.
